@@ -143,8 +143,8 @@ for(i=0;i<c.length;i++){
         if( plaintext[i]==27){ m[i]='v';} 
         if( plaintext[i]==28){ m[i]='y';} 
         if( plaintext[i]==29){ m[i]='z';} 
-        if( plaintext[i]==30){ m[i]='y';} 
-        if( plaintext[i]==31){ m[i]='z';} 
+        if( plaintext[i]==30){ m[i]='w';} 
+        if( plaintext[i]==31){ m[i]='q';} 
     
 
 esasmetin= esasmetin+m[i];
